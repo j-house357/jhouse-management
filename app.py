@@ -17,7 +17,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 
 # --- 1. ตั้งค่าการเชื่อมต่อ Supabase & Streamlit ---
 st.set_page_config(
-    page_title="J-House Has Love Management System",
+    page_title="J-hous-has-love",
     page_icon="🏨",
     layout="wide",
     initial_sidebar_state="expanded"
